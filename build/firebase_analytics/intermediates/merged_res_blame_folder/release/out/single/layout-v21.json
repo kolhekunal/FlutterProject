@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\getinforme\\build\\firebase_analytics\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\firebase_analytics\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\firebase_analytics\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\firebase_analytics\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

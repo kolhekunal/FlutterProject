@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\getinforme\\build\\firebase_messaging\\intermediates\\merged_res\\release\\values-lt\\values-lt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\14c71c809397aea8d1361f51711ab523\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-lt\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "217",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "217",
+                        "endOffsets": "318"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\a0712bd7a1b602ebed2d0cff9e1f9d10\\transformed\\jetified-firebase-messaging-23.0.0\\res\\values-lt\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "71",
+                        "endOffsets": "278"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "323",
+                        "endColumns": "75",
+                        "endOffsets": "394"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "399",
+                        "endColumns": "100",
+                        "endOffsets": "495"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\getinforme\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lt\\values-lt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\14c71c809397aea8d1361f51711ab523\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-lt\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "217",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "217",
+                        "endOffsets": "318"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\a0712bd7a1b602ebed2d0cff9e1f9d10\\transformed\\jetified-firebase-messaging-23.0.0\\res\\values-lt\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "71",
+                        "endOffsets": "278"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "323",
+                        "endColumns": "75",
+                        "endOffsets": "394"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "399",
+                        "endColumns": "100",
+                        "endOffsets": "495"
+                    }
+                }
+            ]
+        }
+    ]
+}

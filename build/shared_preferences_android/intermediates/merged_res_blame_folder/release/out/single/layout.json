@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\getinforme\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

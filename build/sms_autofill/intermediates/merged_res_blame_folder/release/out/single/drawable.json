@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]

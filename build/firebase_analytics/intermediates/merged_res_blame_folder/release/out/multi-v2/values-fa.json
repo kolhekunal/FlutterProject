@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\getinforme\\build\\firebase_analytics\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fa\\values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\2314d1106b4c6e98bf60de699d4696cd\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-fa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "150",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "154",
+                        "endOffsets": "205"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endColumns": "100",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\getinforme\\build\\firebase_analytics\\intermediates\\merged_res\\release\\values-fa\\values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\2314d1106b4c6e98bf60de699d4696cd\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-fa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "150",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "154",
+                        "endOffsets": "205"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\623be4176d4e127d092f37a4aa96b4eb\\transformed\\core-1.6.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endColumns": "100",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        }
+    ]
+}

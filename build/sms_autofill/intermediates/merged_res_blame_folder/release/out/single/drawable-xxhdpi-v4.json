@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\getinforme\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\diaspark\\.gradle\\caches\\transforms-3\\9d2bad3a1a48445aa090c18ea4b49b58\\transformed\\jetified-play-services-base-17.5.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]
